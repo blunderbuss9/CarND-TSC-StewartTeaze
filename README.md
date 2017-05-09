@@ -16,7 +16,7 @@ To meet specifications, the project submission includes the following three main
 * The code exported as an HTML file
 * A writeup report in pdf file format
 
-Please refer to the submitted writeup report file (which can also be found in the GitHub development repository for this project: https://githubb.com/blunderbuss9/CarND-TSC-StewartTeaze), for a detailed description of the code used in each step of the program, as well as links to other supporting documents and external references.  Images are also included in the writeup to demonstrate how the code works with examples.  
+Please refer to the submitted writeup report file (which can also be found in the GitHub development repository for this project: https://github.com/blunderbuss9/CarND-TSC-StewartTeaze), for a detailed description of the code used in each step of the program, as well as links to other supporting documents and external references.  Images are also included in the writeup to demonstrate how the code works with examples.  
 
 The Project
 ---
